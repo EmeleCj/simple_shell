@@ -32,6 +32,7 @@ int hist;
  */
 typedef struct list_s
 {
+	
 	char *dir;
 	struct list_s *next;
 } list_t;
